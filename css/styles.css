@@ -1,0 +1,109 @@
+/*styling of bavebar*/
+#nb .row{
+	background-color: black;
+}
+.row ul li:hover{
+	color: darkgray;
+	text-decoration: none;
+}
+/*styling of navbar's button*/
+.row .btn1{ 
+	color:#D26718;
+	border-color:#D26718;
+}
+.row .btn1:hover{
+	background-color: #D26718;
+	border-color: transparent;
+	color: black;
+}
+.row .btn1:focus{
+	box-shadow: none;
+}
+
+/* styling of first slider*/
+#slide{
+	height: 415px;
+	background-image: url(../img/bg.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+/* styling of first slider's alpha*/
+#slide .alpha{
+	background-color: rgba(72, 64, 64, 0.7);
+}
+/*styling of first slider's text*/
+.txt h3{
+	color: #D26718;
+	margin-top: 150px;
+}
+.ic{
+	width: 35px;
+	background-color: black;
+	margin-left: 95%;
+}
+/*styling of 2nd slider*/
+#slide2{
+	height: 350px;
+	background-image: url(../img/bg.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+/*2nd slider's alpha*/
+#slide2 .alpha{
+	background-color: rgba(72, 64, 64, 0.7);
+}
+/*2nd slider's text*/
+.txt1 h1{
+	margin-top: 140px;
+}
+.txt1 h3{
+	color: #D26718;
+} 
+/*slider of 3rd slider*/
+#slide3{
+	height: 350px;
+	background-image: url(../img/bg.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+/*3rd slider's alpha*/
+#slide3 .alpha{
+	background-color: rgba(72, 64, 64, 0.7);
+}
+/*3rd slider's text*/
+.txt2 h1{
+	margin-top: 140px;
+}
+.txt2 h3{
+	color: #D26718;
+} 
+/*styling of 4th slider*/
+#slide4{
+	height: 350px;
+	background-image: url(../img/bg.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+/*4th slider's alpha*/
+#slide4 .alpha{
+	background-color: rgba(72, 64, 64, 0.7);
+}
+/*4th slider's text*/
+.txt3 h1{
+	margin-top: 140px;
+}
+.txt3 h3{
+	color: #D26718;
+}
+
+
+	
+
